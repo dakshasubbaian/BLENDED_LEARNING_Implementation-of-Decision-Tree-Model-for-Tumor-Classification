@@ -24,11 +24,11 @@ To implement and evaluate a Decision Tree model to classify tumors as benign or 
 
 ## Program:
 Developed by: DAKSHA SUBBAIAN
+
 RegisterNumber:212223230036
 ```
-/*
-Program to  implement a Decision Tree model for tumor classification.  
-*/
+Program to  implement a Decision Tree model for tumor classification.
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
